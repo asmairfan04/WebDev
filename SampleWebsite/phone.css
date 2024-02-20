@@ -1,0 +1,84 @@
+#navbar{
+    flex-direction: column;
+    
+}
+#navbar #logo{
+    margin: 12px 11px;
+    
+
+}
+#navbar #logo img{
+    width: 120px;
+    height: 65px;
+    margin: 0px 0px;
+    
+}
+    
+
+#navbar ul{
+    display: flex;
+    font-size: 0.8rem;
+    margin: 0px 0px;
+    left: -5px;
+}
+#navbar ul li a{
+    font-size: 0.8rem;
+    margin: 0px 0px;
+    padding: 7px;
+}
+.all-cards{
+    flex-direction: column;
+}
+.recent-works::before{
+    height: 155%;
+}
+.recent-works::before{
+    height: 225%;
+}
+
+.recent-works{
+    flex-direction: column;
+}
+
+
+.recent-works .card{
+    width: 21rem;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+.overlay{
+    height: 55%;
+}
+
+#services{
+    flex-direction: column;
+}
+ #content{
+     float: none;
+     word-wrap: break-word; 
+     width: 10rem;
+ }
+ #services .tab-pane{
+    width: 10rem;
+  }
+ #content span{
+     margin-right: 10px;
+ }
+
+ #v-pills-tabContent {
+    margin-left: 12px;
+ }
+
+ #services .card{
+     display: none;
+ }
+ #test-dev::before{
+     height: 400%;
+ }
+ #test-dev{
+    flex-direction: column;
+ }
+    
+
+ 
